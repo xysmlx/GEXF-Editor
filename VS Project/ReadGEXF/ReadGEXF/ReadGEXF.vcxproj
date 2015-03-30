@@ -76,8 +76,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="gexf.h" />
     <ClInclude Include="head.h" />
+    <ClInclude Include="ReadGEXF.h" />
     <ClInclude Include="tinyxml2.h" />
+    <ClInclude Include="WriteGEXF.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
